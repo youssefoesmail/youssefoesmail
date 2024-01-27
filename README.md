@@ -79,7 +79,6 @@ Here are some ideas to get you started:
   <br/>
   <br/>
   <img alt="Static Badge" src="https://img.shields.io/badge/mongodb-%2300573F?style=for-the-badge&logo=mongodb&logoColor=%23fff">
-<img alt="Static Badge" src="https://img.shields.io/badge/postgresql-%23318CE7?style=for-the-badge&logo=postgresql&logoColor=%23fff">
   <br/>
   <br/>
 </h2>
