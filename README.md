@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-🧰  <h3>My toolbox</h3>
+<h3>🧰  My toolbox</h3>
 <hr/>
 
