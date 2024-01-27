@@ -60,10 +60,7 @@ Here are some ideas to get you started:
       <img alt="Static Badge" src="https://img.shields.io/badge/react.js-black?style=for-the-badge&logo=react">
 <img alt="Static Badge" src="https://img.shields.io/badge/jquery-%230066b2?style=for-the-badge&logo=jquery">
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/bfe6a48836e87b13a16f1f56f88fee428475c2ac29247992ec9b8bcc7154f881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"><img src="https://camo.githubusercontent.com/bfe6a48836e87b13a16f1f56f88fee428475c2ac29247992ec9b8bcc7154f881/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white" style="max-width: 100%;"></a>
-
 <img alt="Static Badge" src="https://img.shields.io/badge/css-%230066b2?style=for-the-badge&logo=Css3&logoColor=%23fff">
-<img alt="Static Badge" src="https://img.shields.io/badge/bootstrap-%237B68EE?style=for-the-badge&logo=bootstrap&logoColor=%23fff">
-<img alt="Static Badge" src="https://img.shields.io/badge/redux-%2300538C?style=for-the-badge&logo=redux&logoColor=%23fff">
 
   <br/>
   <br/>
