@@ -68,6 +68,7 @@ Here are some ideas to get you started:
 <h2>🔥 Backend Development :
   <br/>
   <br/>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/node.js-%23006A4E?style=for-the-badge&logo=node.js&logoColor=%23fff">
 <img alt="Static Badge" src="https://img.shields.io/badge/express-black?style=for-the-badge&logo=express&logoColor=%23fff">
 <img alt="Static Badge" src="https://img.shields.io/badge/json-%23A9BA9D?style=for-the-badge&logo=json&logoColor=%23fff">
