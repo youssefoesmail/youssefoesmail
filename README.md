@@ -8,18 +8,26 @@
 I am a full-stack developer with a deep passion for coding, and problem solving.
 A strong ability to learn quickly and adapt to new technologies.
 
-Contact me :
-<p align="center">
-  <a href="https://www.linkedin.com/in/youssefesmail/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href=""><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/AixJgnm.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/denvercoder1"><img width="32px" alt="Dev.to" title="DenverCoder1 Dev.to" src="https://i.imgur.com/mVm29vK.png"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jlawrence"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="https://i.imgur.com/PpLeD3K.png"/></a>
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
+<h1 align="start">Contact me :
+  <br/>
+  <br/>
+<img alt="Static Badge" src="https://img.shields.io/badge/gmail-%23A52A2A?style=for-the-badge&logo=gmail&logoColor=%23fff">
+
+
+<a href="https://www.linkedin.com/in/jamal-barhoum/"> 
+<img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230066b2?style=for-the-badge&logo=Linkedin&logoColor=%23fff">
+</a>
+
+  <a href="https://web.facebook.com/jamal.barhom/">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=%23fff" data-canonical-src="https://web.facebook.com/jamal.barhom/">  
+  </a>
+  <a href="https://www.instagram.com/xalbedawi/">
+     <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23DE3163?style=for-the-badge&logo=Instagram&logoColor=%23fff">
+    
+  </a>
+  <br/>
+</h1>
+        <br/>
 
 **youssefoesmail/youssefoesmail** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
