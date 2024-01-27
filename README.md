@@ -18,10 +18,10 @@ A strong ability to learn quickly and adapt to new technologies.
 <img alt="Static Badge" src="https://img.shields.io/badge/Linkedin-%230066b2?style=for-the-badge&logo=Linkedin&logoColor=%23fff">
 </a>
 
-  <a href="https://web.facebook.com/jamal.barhom/">
+  <a href="">
   <img alt="Static Badge" src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=%23fff" data-canonical-src="https://web.facebook.com/jamal.barhom/">  
   </a>
-  <a href="https://www.instagram.com/xalbedawi/">
+  <a href="">
      <img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23DE3163?style=for-the-badge&logo=Instagram&logoColor=%23fff">
     
   </a>
