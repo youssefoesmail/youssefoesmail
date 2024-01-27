@@ -93,8 +93,3 @@ Here are some ideas to get you started:
 <img src="https://camo.githubusercontent.com/fcf9f1ae7ca5c1edecf6711a7cde16c8ffc7d8449714c3c81da40df526b72eaa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5653436f64652d3030373844343f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c25323073747564696f253230636f6465266c6f676f436f6c6f723d7768697465" alt="image" data-canonical-src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&amp;logo=visual%20studio%20code&amp;logoColor=white" style="max-width: 100%;">
   
 </h2>
-
-<h3>🧰  My toolbox</h3>
-<hr/>
-https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg
-
